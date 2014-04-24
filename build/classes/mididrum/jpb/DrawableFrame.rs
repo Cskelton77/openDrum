@@ -1,0 +1,2 @@
+jpb.DrawableFrame
+jpb.DrawableFrame$WindowCloser
